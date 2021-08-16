@@ -1,0 +1,38 @@
+Derrick DeBose
+Student #1536268
+
+The default constructor creates a new Vector with no magnitude.
+
+The constructor that takes in an x and a y coordinate for the Vector and computes angle and magnitude.
+
+The polarVector ”constructor" takes an angle and a magnitude for the Vector and solves for x and y values of the Vector
+
+getX() Returns the x coordinate of the Vector.
+
+getY() Returns the y coordinate of the Vector.
+
+getAngle() Returns the angle of the Vector.
+
+getMagnitude() Returns the magnitude of the Vector.
+
+add(Vector other) Returns the sum of this Vector with the given Vector.
+
+subtract(Vector other) Returns the difference between this Vector and the given Vector.
+
+dotProduct(Vector other) Returns the dot product of this Vector and the given Vector.
+
+scalarMultiply(float scalar) Returns this Vector scaled by the given scalar.
+
+normalize() Returns the normalized version of this Vector, a Vector with the same angle with magnitude 1.
+
+
+Additional Functionality:
+ 
+crossProduct(Vector other) Returns a vector that is the cross product to this Vector and the given Vector. The cross product is tangent to both. The formula is (ad,-bc) where this Vector is (a,b) and the given Vector is (c,d).
+
+determinant(Vector other) Returns a float that is the determinant of this Vector and the given Vector. The formula is ad-bc=determinant where this Vector is (a,b) and the given Vector is (c,d)
+
+print() Returns a string of this vector as (x,y)
+
+
+

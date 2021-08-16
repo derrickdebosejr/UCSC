@@ -1,0 +1,14 @@
+Derrick DeBose
+ID#1536268
+
+Anagram.java is the ADT that creates anagrams. A new anagram can be made with a string or a char array. A key is made for the anagram based on each letter being assigned a unique prime number that is multiplied together to make a unique factorization. Print returns the string in the anagram ADT and compare return true if the 2 anagrams passed in are anagrams of each other.
+
+FindAnagrams.java is the main codes that tests the Anagram ADT. The program reads in an input textfile that has the words of the dictionary in it. Each of those strings is converted into an anagram and added to an arraylist. After user input happens then the string is converted into an anagram. The user input anagram is compared with a key with each anagram in the arraylist.
+
+wordList.txt which is an input text file that will be used to test if a user input string is an anagram of a word in the text file 
+
+Makefile used to compile the code
+
+README Current file to explain the files in directory
+
+NoteToGrader a short note to describe my approach.
