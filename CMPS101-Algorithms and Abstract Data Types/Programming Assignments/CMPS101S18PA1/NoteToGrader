@@ -1,0 +1,17 @@
+Apint methods
+
+Both add and addition methods in my code use the same logic. Starting at the back of the list we add the 2 ints then and then calculate carry based on the sum.
+
+Both subtract and subtraction methods follow the same logic. First determine which number is bigger in size not positive or negative representation. if the second number is larger than the first then we will subtract the second number from the first and set the difference to negative.
+
+Both multi and multiply methods follow the same logic. First determine which number is bigger in size not positive or negative representation. total is calculated by multiplying the 2 apints and adding by the carry at that index then uses a shift method to shift the data in order for there to be zeros at the end to hold multiplication process.
+
+The divide function is a method that counts the amount of times the divisor can be subtracted by the dividend. There are tests to know when to stop subtracting and return the counter. The cases are if the dividend become 0 or switches signs.
+
+The Factorial method uses the subtract and multi function to decrement the number by one and multiply the running total by the decremented number.
+
+The print method checks if the apint passed in is zero then makes a string that removes all the leading zeros in the apint.
+
+Aprat methods
+
+The APRAT function doesn’t work because of lack of time to finish the assignment could finish with another 24hr extension.

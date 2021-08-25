@@ -1,0 +1,20 @@
+Derrick DeBose
+ID#1536268
+
+apint.java the class apint has methods to add subtract multiply and divide but the character limit for the numbers is 3000 rather than  the number 2,147,483,647.
+ 
+aprat.java the class aprat has methods to add subtract multiply and divide that expresses 2 apints as a numerator and denominator.
+
+PA1.java This is my main code and reads in input.txt and writes to output.txt after completing the different arithmetic methods 
+
+PA1.jar This class is used to make and compile the entire program
+
+input.txt This text has the operations that I will be doing with the numbers
+
+output.txt This text file is written into by PA1 after completing the operations of given from input.txt
+
+Makefile used to compile the code
+
+README Current file to explain the files in directory
+
+NoteToGrader a short note to describe my approach.

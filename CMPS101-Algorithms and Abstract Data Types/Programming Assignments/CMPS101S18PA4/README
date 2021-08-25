@@ -1,0 +1,12 @@
+Derrick DeBose
+ID#1536268
+
+VectorTest.java this file is used to test the Vector ADT. The file uses every constructor and method in the Vector ADT
+
+Vector.java is the Vector ADT. The skeleton of the ADT with method prototypes that were given are filled in with additional functionality of 3 methods: cross product, determinant, and print
+
+Makefile used to compile the code
+
+README Current file to explain the files in directory
+
+NoteToGrader a short note to describe my approach.
