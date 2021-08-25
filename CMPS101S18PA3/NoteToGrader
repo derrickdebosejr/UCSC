@@ -1,8 +1,0 @@
-Derrick DeBose
-Student #1536268
-
-My methods to make a new Anagram use a constructor that takes in an array of char or a string and assigns a prime number to each letter and the product of the primes creates a unique factorization and the product is used as the key to compare if words are Anagrams.
-
-The print method just returns the string of the anagram that was passed in, and can simply be put in a println statement
-
-The compare method compares 2 anagrams passed in as parameters and compares if the 2 anagrams have the same key and runs in O(1) time.
