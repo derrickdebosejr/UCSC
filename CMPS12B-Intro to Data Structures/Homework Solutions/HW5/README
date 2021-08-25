@@ -1,0 +1,16 @@
+Derrick DeBose
+Student ID: 1536268
+Cruzid: ddebose
+
+This is the Shakespeare Homework 5. I worked on this assignment on my own and used resources given to me from MSI, class, the textbook and lab. Most of my bubble sort method comes from the classes textbook, Data Abstraction & problem solving with java
+
+The files that I am submitting are:
+
+Word.java // my word class to store that data of the hash map 
+Bard.java // has my main method and sort method 
+Bard.jar // used to compile run my entire program
+Makefile // used to compile the project
+README // current file
+analysis.txt // write into this output file
+input.txt //given
+shakespeare.txt //given

@@ -1,0 +1,20 @@
+Derrick DeBose
+Student ID: 1536268
+Cruzid: ddebose
+
+This is the SlugFest Bank Teller lines Homework 4. I worked on this assignment on my own and used resources given to me from MSI, class, and lab
+
+The files that I am submitting are:
+
+BankQueue.java // my queue class
+Client.java // My client class for all the clients that come into the bank
+Node.java // My node class holds clients and a reference to the next thing in the queue
+SlugFest.java // has my main method
+SlugFest.jar // used to compile run my entire program
+Makefile // used to compile the project
+README // current file
+more-input.txt // given
+more-output.txt //made a file for more output.txt after getting running code on more-input.txt
+out.txt // write into this output file
+test-input.txt //given
+test-output.txt //given
