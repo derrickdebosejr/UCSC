@@ -1,0 +1,13 @@
+Derrick DeBose
+StudentID: 1536268
+CruzID: ddebose@ucsc.edu
+
+I worked with no one on this assignment just used resources given to me in class, in the book, from the TAs office hours, and from MSI tutoring
+The files I am submitting are:
+queueClient.c
+queue.c
+queue.h
+Makefile
+README
+test-input.txt
+out.txt //the file to write into
