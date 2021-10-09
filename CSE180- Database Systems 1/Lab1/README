@@ -1,0 +1,6 @@
+Derrick DeBose
+Jan. 17, 2020
+
+README
+
+The data that was given to load into my tables was good except for the one error of one movie having a total earned money value that was too big for the database to store. This database assumes only good data will be inputted into the tables.
