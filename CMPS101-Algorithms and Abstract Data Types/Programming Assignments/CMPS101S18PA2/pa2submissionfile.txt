@@ -30,7 +30,7 @@ README Current file to explain the files in directory
 
 NoteToGrader a short note to describe my approach.bash-3.2$ cat NoteTiGreader[1Pader[1PGraderoGrader[C[C[C[C[C[C
 Derrick DeBose
-Student #1532668
+
 
 Apint methods
 
