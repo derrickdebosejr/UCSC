@@ -14,7 +14,7 @@ total 80
 -rw-r--r--  1 derrickdebosejr  staff    43 May 30 16:53 pa4submissionfile.txt
 bash-3.2$ catR[K README
 Derrick DeBose
-ID#1536268
+
 
 VectorTest.java this file is used to test the Vector ADT. The file uses every constructor and method in the Vector ADT
 
@@ -26,7 +26,7 @@ README Current file to explain the files in directory
 
 NoteToGrader a short note to describe my approach.bash-3.2$ cat NoteToGrader
 Derrick DeBose
-Student #1536268
+
 
 The default constructor creates a new Vector with no magnitude.
 
@@ -102,7 +102,8 @@ class Vector {
     public Vector(float x, float y) {
         this.x = x;
         this.y = y;
-        //formula for solving angle from x,y points in quadrant 1
+        //formula for solving angle from x,y points in quadrant 1
+
         angle = (float)Math.atan(y/x);
         //if vector is in quadrant 4
         if((angle)>(float)(Math.PI)*3/2 ){
@@ -208,7 +209,8 @@ class Vector {
         Vector v = new Vector(getX(),getY());
         v.x= v.x * scalar;
         v.y= v.y * scalar;
-        return v;
+        return v;
+
     }
 
     /** normalize
