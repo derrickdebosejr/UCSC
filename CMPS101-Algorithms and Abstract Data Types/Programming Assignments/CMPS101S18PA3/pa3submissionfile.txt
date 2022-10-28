@@ -15,7 +15,7 @@ total 3840
 -rw-------@ 1 derrickdebosejr  staff  1923517 May 16 12:59 wordList.txt
 bash-3.2$ cat README
 Derrick DeBose
-ID#1536268
+
 
 Anagram.java is the ADT that creates anagrams. A new anagram can be made with a string or a char array. A key is made for the anagram based on each letter being assigned a unique prime number that is multiplied together to make a unique factorization. Print returns the string in the anagram ADT and compare return true if the 2 anagrams passed in are anagrams of each other.
 
@@ -30,7 +30,7 @@ README Current file to explain the files in directory
 NoteToGrader a short note to describe my approach.
 bash-3.2$ cat NoteToGraader[1Pder
 Derrick DeBose
-Student #1536268
+
 
 My methods to make a new Anagram use a constructor that takes in an array of char or a string and assigns a prime number to each letter and the product of the primes creates a unique factorization and the product is used as the key to compare if words are Anagrams.
 
@@ -492,7 +492,10 @@ class FindAnagrams{
         }
     }
 }
-bash-3.2$ cat FindAnagrams.java[C[C[C[C[C[C[C[C[C[Cls -l[K[1Pmakecat Anagram.javaNoteToGrader[6PREADME[5Pls -l[2Ppwdexitjava -jar FindAnagrams.jar wordList.txt[C[C[C[C[C[C[C[C[C[C[23Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23@java -jar FindAnagrams.jar[C[C[C[C[C[C[C[C[C[C[C[C[C
+bash-3.2$ cat FindAnagrams.java
+[C[C[C[C[C[C[C[C[C[Cls -l[K[1Pmakecat Anagram.javaNoteToGrader[6PREADME[5Pls -l[2Ppwdexitjava -jar FindAnagrams.jar wordList.txt
+[C[C[C[C[C[C[C[C[C[C[23Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[23@java -jar FindAnagrams.jar[C[C[C[C[C[C[C[C[C[C[C[C[C
 type a string of letters
 iTeMs
 emits
