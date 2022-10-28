@@ -1,5 +1,5 @@
 Derrick DeBose
-Student #1536268
+
 
 My methods to make a new Anagram use a constructor that takes in an array of char or a string and assigns a prime number to each letter and the product of the primes creates a unique factorization and the product is used as the key to compare if words are Anagrams.
 
