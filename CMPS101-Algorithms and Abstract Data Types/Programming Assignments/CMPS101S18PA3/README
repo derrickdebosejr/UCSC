@@ -1,5 +1,5 @@
 Derrick DeBose
-ID#1536268
+
 
 Anagram.java is the ADT that creates anagrams. A new anagram can be made with a string or a char array. A key is made for the anagram based on each letter being assigned a unique prime number that is multiplied together to make a unique factorization. Print returns the string in the anagram ADT and compare return true if the 2 anagrams passed in are anagrams of each other.
 
