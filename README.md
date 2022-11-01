@@ -1,2 +1,2 @@
 # UCSC
-This all undergraduate work from various classes I have taken.
+This is various undergraduate assignments from various classes I have taken.
